@@ -1,0 +1,15 @@
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\obj\Debug\net7.0\Exercício1.csproj.AssemblyReference.cache
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\obj\Debug\net7.0\Exercício1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\obj\Debug\net7.0\Exercício1.AssemblyInfoInputs.cache
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\obj\Debug\net7.0\Exercício1.AssemblyInfo.cs
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\obj\Debug\net7.0\Exercício1.csproj.CoreCompileInputs.cache
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\bin\Debug\net7.0\Exercício1.exe
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\bin\Debug\net7.0\Exercício1.deps.json
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\bin\Debug\net7.0\Exercício1.runtimeconfig.json
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\bin\Debug\net7.0\Exercício1.dll
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\bin\Debug\net7.0\Exercício1.pdb
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\obj\Debug\net7.0\Exercício1.dll
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\obj\Debug\net7.0\refint\Exercício1.dll
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\obj\Debug\net7.0\Exercício1.pdb
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\obj\Debug\net7.0\Exercício1.genruntimeconfig.cache
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Exercício1\obj\Debug\net7.0\ref\Exercício1.dll

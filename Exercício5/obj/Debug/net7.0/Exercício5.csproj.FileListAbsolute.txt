@@ -1,0 +1,15 @@
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\bin\Debug\net7.0\Exercício5.exe
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\bin\Debug\net7.0\Exercício5.deps.json
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\bin\Debug\net7.0\Exercício5.runtimeconfig.json
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\bin\Debug\net7.0\Exercício5.dll
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\bin\Debug\net7.0\Exercício5.pdb
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\obj\Debug\net7.0\Exercício5.csproj.AssemblyReference.cache
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\obj\Debug\net7.0\Exercício5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\obj\Debug\net7.0\Exercício5.AssemblyInfoInputs.cache
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\obj\Debug\net7.0\Exercício5.AssemblyInfo.cs
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\obj\Debug\net7.0\Exercício5.csproj.CoreCompileInputs.cache
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\obj\Debug\net7.0\Exercício5.dll
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\obj\Debug\net7.0\refint\Exercício5.dll
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\obj\Debug\net7.0\Exercício5.pdb
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\obj\Debug\net7.0\Exercício5.genruntimeconfig.cache
+C:\Users\Michelle Morikawa\Documents\devinhouse Full Stack Floripa Mais Tec\Semana 1\Exercício5\obj\Debug\net7.0\ref\Exercício5.dll
